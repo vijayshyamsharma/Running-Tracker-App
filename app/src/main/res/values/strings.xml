@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">RunningApp</string>
 
-    <string name="google_maps_key">AIzaSyAaM6gHL1e37GBny_ET64GbQJTMPXEcXJ4</string>
+    <string name="google_maps_key">your api key here</string>
 
 
 
